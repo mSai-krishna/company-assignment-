@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/5f4923fd49.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="main-bg">
+        <div class="bg-container">
+            <div class="section mb-4">
+                <div class="logos-container">
+                    <div class="icon-container">
+                        <i class="icon fa-regular fa-user"></i>
+                    </div>
+                    <p class="icon-name">PROFILE</p>
+
+                </div>
+                <div class="information-container">
+                    <div class="d-flex">
+                        <div id="CARLOLINE-CONTAINER">
+                            <h1 class="main-heading">CARLOLINE <br /> THOMPSON</h1>
+                            <p class="icon-name">ART DIRECTOR</p>
+                        </div>
+                        <div class="vertical-line"></div>
+                        <div class="address-container">
+                            <p class="para-font-size">Advertising campaigns are forte.
+                                <br /> I have been in the industry for 6 years.
+                            </p>
+                            <p class="para-font-size">Address: Los Angles, California <br /> Phone: +(87)834 2934 2344 <br /> Website: Carolinethompson.com</p>
+                        </div>
+                    </div>
+                    <div class="horizontal-line"></div>
+
+                </div>
+            </div>
+
+            <div class="section ">
+                <div class="logos-container">
+                    <div class="icon-container">
+                        <i class="icon fa-solid fa-briefcase"></i>
+                    </div>
+                    <p class="icon-name">WORK</p>
+
+                </div>
+                <div class="information-container">
+                    <div class="d-flex">
+                        <p class="para-font-size ">2022-2023</p>
+                        <div>
+                            <p class="para-font-size ml-5 mb-0" style="font-weight:bold;">Creative mind Graphic Design Studio California. Senior Art Director</p>
+                            <p class="para-font-size ml-5">Generating and developing ideas to present to the client</p>
+                        </div>
+                    </div>
+                    <div class="d-flex">
+                        <p class="para-font-size ">2021-2022</p>
+                        <div>
+                            <p class="para-font-size ml-5 mb-0" style="font-weight:bold;">Mega Giants Publishing and Studio Junior Art Director</p>
+                            <p class="para-font-size ml-5">Working on designs to produce an effective advertising campaign</p>
+                        </div>
+                    </div>
+                    <div class="d-flex">
+                        <p class="para-font-size ">2020-2021</p>
+                        <div>
+                            <p class="para-font-size ml-5 mb-0" style="font-weight:bold;">Big Ideas Inc * Assistant Art Director</p>
+                            <p class="para-font-size ml-5 mb-">Commissioning specialists, such as artists, to work on projects</p>
+                        </div>
+                    </div>
+
+
+
+                    <div class="horizontal-line"></div>
+
+                </div>
+            </div>
+
+            <div class="section mb-4">
+                <div class="logos-container">
+                    <div class="icon-container">
+                        <i class="icon fa-solid fa-list-check"></i>
+
+                    </div>
+                    <p class="icon-name">Skills & Awards </p>
+
+                </div>
+                <div class="information-container">
+                    <div class="d-flex width-50%">
+                        <div>
+                            <div class="d-flex mt-3 ">
+                                <p class="skills-list-font">UI/UX</p>
+                                <div>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                </div>
+                            </div>
+                            <div class="d-flex">
+                                <p class="skills-list-font">Growing Marketing</p>
+                                <div>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                </div>
+                            </div>
+                            <div class="d-flex">
+                                <p class="skills-list-font">Typography </p>
+                                <div>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                </div>
+                            </div>
+                            <div class="d-flex">
+                                <p class="skills-list-font">Video Production </p>
+                                <div>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                </div>
+                            </div>
+                            <div class="d-flex">
+                                <p class="skills-list-font">Print Design</p>
+                                <div>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                    <i class="dots fa-solid fa-circle"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="skills-list-vertical-line"></div>
+                        <div class="width-50%">
+                            <div class="d-flex">
+                                <p class="skills-list-font mr-3 mt-2">2019</p>
+                                <div>
+                                    <p class="skills-list-font mb-0 mt-2" style="font-weight:bold;">Suiton Design Awards</p>
+                                    <p class="skills-list-font">10 Graphic Designer</p>
+                                </div>
+                            </div>
+                            <div class="d-flex">
+                                <p class="skills-list-font mr-3 mt-2">2019</p>
+                                <div>
+                                    <p class="skills-list-font mb-0 mt-2" style="font-weight:bold;">Graphic London Awards</p>
+                                    <p class="skills-list-font">winning Entry: Poster Design </p>
+                                </div>
+                            </div>
+                            <div class="d-flex">
+                                <p class="skills-list-font mr-3 mt-2">2019</p>
+                                <div>
+                                    <p class="skills-list-font mb-0 mt-2" style="font-weight:bold;">LA Creatives Awards</p>
+                                    <p class="skills-list-font">Winning Entry: Ad Compaign</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="horizontal-line"></div>
+                </div>
+            </div>
+
+            <div class="section mb-4">
+                <div class="logos-container">
+                    <div class="icon-container">
+                        <i class="icon fa-regular fa-lightbulb"></i>
+                    </div>
+                    <p class="icon-name">INTERESTS</p>
+
+                </div>
+                <div class="information-container">
+                    <div class="d-flex flex-row justify-content-center">
+                        <div class="mr-3">
+                            <div class="icon-container-with-filled">
+                                <i class="icon-for-filled fa-solid fa-computer"></i>
+                            </div>
+                            <p class="icon-name">Internet</p>
+                        </div>
+                        <div class="mr-3">
+                            <div class="icon-container-with-filled">
+                                <i class="icon-for-filled fa-solid fa-pen"></i>
+                            </div>
+                            <p class="icon-name">Sketching </p>
+                        </div>
+                        <div class="mr-3">
+                            <div class="icon-container-with-filled">
+                                <i class="icon-for-filled fa-solid fa-laptop"></i>
+                            </div>
+                            <p class="icon-name">Movies </p>
+                        </div>
+                        <div>
+                            <div class="icon-container-with-filled">
+                                <i class="icon-for-filled fa-solid fa-microphone-lines"></i>
+                            </div>
+                            <p class="icon-name">Music </p>
+                        </div>
+                    </div>
+
+                    <div class="horizontal-line"></div>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="logos-container">
+                    <div class="icon-container">
+                        <i class="icon fa-solid fa-book"></i>
+                    </div>
+                    <p class="icon-name">EDUCATION</p>
+
+                </div>
+                <div class="information-container">
+                    <div class="d-flex">
+                        <p class="mr-4 education-section-years">2016-2020 </p>
+                        <div>
+                            <p class="mb-0 education-section-years" style="font-weight:bold;">Alabama College of Design and Technology. Cum Laude </p>
+                            <p class="education-section-years">Bachelor of Fine Arts Major in Advertising</p>
+                        </div>
+                    </div>
+                    <div class="d-flex">
+                        <p class="mr-4 education-section-years">2013-2016 </p>
+                        <div class="">
+                            <p class="mb-0 education-section-years" style="font-weight:bold;">Helena All Girls Senior High School Valedictorian </p>
+                            <p class="education-section-years"> President of Art and Design Club</p>
+                        </div>
+                    </div>
+                    <div class="horizontal-line"></div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
